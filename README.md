@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm a developer who believes in working smart, not hard. I love finding the quickest and most efficient ways to get things done, leveraging shortcuts and hacks to maximize productivity.
 
-![i'm dumb](https://tenor.com/bM1ov.gif)
+![Working Smart](https://tenor.com/bM1ov.gif)
 
 ## 🔭 What I'm Currently Working On
-- **[Project Name](https://github.com/AryaGGWP/Project-Name)**: Brief description of the project.
-- **[Another Project](https://github.com/AryaGGWP/Another-Project)**: Brief description of another project.
+--
+--
 
 ## 🌱 What I'm Learning
 - Exploring **Machine Learning** and **Data Science**.
